@@ -31,7 +31,7 @@ An interactive command-line interface (CLI) allows users to select from four typ
 ---
 
 ## How to Use
-1. Download the script and sample `.csv` files (optional for testing).  
+1. Download the script and sample `.csv` files (optional for testing).  [Download](https://drive.google.com/drive/folders/10xmGghRk8knhAprXR_77ukqWBPqAkihJ?usp=sharing)
 2. Update the file path to your `.csv` dataset in the script (see variable `df` near the top of the file).  
 3. Run the Python script.  
 4. Use the interactive CLI menu to select and display the desired plot.
