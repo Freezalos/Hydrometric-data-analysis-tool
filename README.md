@@ -1,7 +1,7 @@
 # Hydrometric Data Analysis Tool
 
 ## Download Link 
-[Download](https://drive.google.com/drive/folders/10xmGghRk8knhAprXR_77ukqWBPqAkihJ?usp=sharing)
+- [Download](https://drive.google.com/drive/folders/10xmGghRk8knhAprXR_77ukqWBPqAkihJ?usp=sharing)
 
 ## Overview
 This Python script processes hydrometric flow and water level data from the [Water Survey of Canada](https://wateroffice.ec.gc.ca/search/historical_e.html), generating time series visualizations and rating curve analyses to support hydrological modeling and interpretation.
