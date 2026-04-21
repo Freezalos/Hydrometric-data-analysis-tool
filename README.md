@@ -17,13 +17,15 @@ An interactive command-line interface (CLI) allows users to select from four typ
 3. **Log Rating Curves**  
    Generates log-scale rating curves with data grouped by month, year, and season.
 
-4. **Rating Curve Regression**  
+4. **Global Rating Curve Regression**  
    Fits and plots a regression of the form:  
    \[
    Q = a(h - h_0)^b
    \]  
-   to approximate the observed discharge–stage relationship.
+   to approximate the observed discharge–stage relationship using the entire data set.
 
+5. **Seasonal Rating Curve Regression**
+   Divides the data into two climatic groups (warm and cold) and fits a curve to each group to potentially improve the regression accuracy
 ---
 
 ## Requirements
